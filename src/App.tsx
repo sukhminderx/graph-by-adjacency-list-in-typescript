@@ -22,7 +22,7 @@ function App() {
             marginTop: "100px",
           }}
         >
-          Check your console for Bitonic Search in TypeScript... visit{" "}
+          Check your console for Graph in TypeScript... visit{" "}
           <a href="https://www.gabruism.com">Gabruism</a>
         </h1>
       </header>
